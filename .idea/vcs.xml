@@ -2,5 +2,23 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Alert" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bangnangcao" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Biennangcao" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bảng cơ bản" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bảng nâng cao" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Chuyendoitien" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Form dang ky" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Form dkhocvien" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Form google search" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Form so thich" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Formsurvey" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Khaibaobien" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maytinh" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Nhungjs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Thoikhoabieu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Toantu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tạo form cơ bản" vcs="Git" />
   </component>
 </project>

@@ -2,8 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a5f76fe-bde9-44d1-92ed-fe82351fb80b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Democ09" beforeDir="false" afterPath="$PROJECT_DIR$/../Democ09" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.Form&amp;Table/Alert/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.Form&amp;Table/Bang covua/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.Form&amp;Table/Bangnangcao/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.Form&amp;Table/Bangnangcao/index1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.Form&amp;Table/Biennangcao/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.Form&amp;Table/Biennangcao/index1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.Form&amp;Table/Biennangcao/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.Form&amp;Table/Bảng cơ bản/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.Form&amp;Table/Bảng nâng cao/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.Form&amp;Table/Chuyendoitien/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.Form&amp;Table/Form dang ky/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.Form&amp;Table/Form dkhocvien/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.Form&amp;Table/Form google search/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.Form&amp;Table/Form so thich/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.Form&amp;Table/Formsurvey/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.Form&amp;Table/Khaibaobien/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.Form&amp;Table/Maytinh/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.Form&amp;Table/Nhungjs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.Form&amp;Table/Nhungjs/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.Form&amp;Table/Thoikhoabieu/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.Form&amp;Table/Thoikhoabieu/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.Form&amp;Table/Toantu/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.Form&amp;Table/Tạo form cơ bản/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8. Cấu trúc điều kiện 1/If-else/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8. Cấu trúc điều kiện 1/Kiểm tra năm nhuận/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8. Cấu trúc điều kiện 1/Luyện tập if-else-if/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8. Cấu trúc điều kiện 1/Toán tử 3 ngôi/add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8. Cấu trúc điều kiện 1/Toán tử 3 ngôi/employee.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoHTML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Democ09" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bangnangcao" beforeDir="false" afterPath="$PROJECT_DIR$/Bangnangcao" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bangnangcao/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Bangnangcao/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bangnangcao/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bangnangcao/index1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biennangcao" beforeDir="false" afterPath="$PROJECT_DIR$/Biennangcao" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biennangcao/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Biennangcao/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chuyendoitien" beforeDir="false" afterPath="$PROJECT_DIR$/Chuyendoitien" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chuyendoitien/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chuyendoitien/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Form so thich" beforeDir="false" afterPath="$PROJECT_DIR$/Form so thich" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Form so thich/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Form so thich/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Khaibaobien" beforeDir="false" afterPath="$PROJECT_DIR$/Khaibaobien" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Khaibaobien/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Khaibaobien/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thoikhoabieu" beforeDir="false" afterPath="$PROJECT_DIR$/Thoikhoabieu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thoikhoabieu/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Thoikhoabieu/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Toantu" beforeDir="false" afterPath="$PROJECT_DIR$/Toantu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Toantu/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Toantu/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wf-hello-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wf-hello-master/hello.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +70,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Module 1/5.Form&Table/Tạo form cơ bản",
+    "last_opened_file_path": "D:/Module 1/MD1_CTDK1",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -37,6 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665025394841</updated>
       <workItem from="1665025396010" duration="31000" />
+      <workItem from="1665387625545" duration="81000" />
     </task>
     <servers />
   </component>
