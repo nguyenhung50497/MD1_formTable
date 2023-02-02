@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a5f76fe-bde9-44d1-92ed-fe82351fb80b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../MD1_CauTrucLap1/for/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MD1_CauTrucLap1/for/tongN.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MD1_CauTrucLap2/BangCuuChuong/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../5.Form&amp;Table/Alert/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../5.Form&amp;Table/Bang covua/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../5.Form&amp;Table/Bangnangcao/index.html" beforeDir="false" />
@@ -32,7 +35,6 @@
       <change beforePath="$PROJECT_DIR$/../8. Cấu trúc điều kiện 1/Toán tử 3 ngôi/employee.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../DemoHTML" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Democ09" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bangnangcao" beforeDir="false" afterPath="$PROJECT_DIR$/Bangnangcao" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bangnangcao/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Bangnangcao/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bangnangcao/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bangnangcao/index1.html" afterDir="false" />
@@ -65,16 +67,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Module 1/MD1_CTDK1",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Module 1/MD1_CTDK1&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -85,6 +87,7 @@
       <updated>1665025394841</updated>
       <workItem from="1665025396010" duration="31000" />
       <workItem from="1665387625545" duration="81000" />
+      <workItem from="1665731414083" duration="76000" />
     </task>
     <servers />
   </component>
